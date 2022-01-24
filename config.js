@@ -11,7 +11,7 @@ const CONFIG = {
     btnReply: 'Gửi cho Pun <3',
     reply: 'Cóoo, Heo muốn nói là Heo iu Pun rất nhìu và sẽ luôn ngoan để được Pun cưng hơn ó!!!',
     mess: 'Òemmmmm 🥰. Pun cũng vại.',
-    messDesc: 'Chúc Heo tuổi mới, cũng như là một năm mới gặp được nhiều thuận lợi nè, học được thêm nhiều kiến thức mà Heo mong muốn để chuẩn bị được đủ hành trang và bước tiếp vào con đường phát triển sự nghiệp của mình nha. Lát nữa Pun dắt đi chơi haa!',
+    messDesc: 'Chúc Heo tuổi mới, cũng như là một năm mới gặp được nhiều thuận lợi nè, học được thêm nhiều kiến thức mà Heo mong muốn để chuẩn bị được đủ hành trang và bước tiếp vào con đường phát triển sự nghiệp của mình nha. Hôm nay Pun dắt đi chơi haa!',
     btnAccept: 'Ằmm',
     messLink: 'https://m.starmakerstudios.com/d/playrecording?app=tvp&from_sid=13336498271&is_convert=true&recordingId=5066549577255430&share_type=copyLink' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
