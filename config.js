@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Òemmmmm 🥰. Pun cũng vại.',
     messDesc: 'Chúc Heo tuổi mới, cũng như là một năm mới gặp được nhiều thuận lợi nè, học được thêm nhiều kiến thức mà Heo mong muốn để chuẩn bị được đủ hành trang và bước tiếp vào con đường phát triển sự nghiệp của mình nha. Hôm nay Pun dắt đi chơi haa!',
     btnAccept: 'Ằmm',
-    messLink: 'https://m.starmakerstudios.com/d/playrecording?app=tvp&from_sid=13336498271&is_convert=true&recordingId=5066549577255430&share_type=copyLink' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://m.starmakerstudios.com/d/playrecording?app=tvp&from_sid=13336498271&is_convert=true&recordingId=5066549577346304&share_type=copyLink' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
